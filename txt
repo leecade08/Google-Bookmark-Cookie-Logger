@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover, a:active {
+  background-color: red;
+}
+</style>
+</head>
+<body>
+<h2>Roblox Clothing Copier Early Beta</h2>
+<h3>Setup Instructions</h3>
+<p>This only works if you are on computer. If you aren't on computer then this wont work.<br></p>
+<p>1. Get the bookmark <b>simply</b> by dragging the <b>'Copy Clothing'</b> button to your bookmark bar. 
+<br>
+<br>
+<a id="bookmark"
+href="PasteJavaHere"
+
+ onclick="copyToClip()" class="btn btn-sm btn-secondary btn-icon rounded-pill">
+<span class="btn-inner--text">Copy Clothing</span></a></p><br>
+<p>If you don't see the bookmark bar then press <b>'CTRL+SHIFT+B'</b> then drag the button in an empty space.<br></p>
+<p>2. Go to an <b>Clothing</b> on <b>Roblox Catalog.</b><br></p>
+<p>3. Press on the bookmark and paste in the ID of the Clothing in the popup.</p>
+<p>4. A new tab should open and a clothing template should appear.</p>
+</body>
+</html>
